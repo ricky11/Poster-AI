@@ -3,4 +3,4 @@ AI POSTER QR CODE LINK
 
 
 
-![](Poster - AI.png)
+[![name](Poster - AI.png)](link to your URL)
