@@ -1,5 +1,7 @@
 # Science Meets Shopping: The AI Robot For Retail.
+Thank you for taking the time to visit our poster session. Here is more information and links to our references. 
 
+Contact us for a more detailed product demonstration.
 
 ![AI POSTER](https://github.com/ricky11/Poster-AI/blob/352528957daa9b3133a4aa1fefe92066d8745046/POSTER%20-%20AI.png)
 
@@ -25,5 +27,15 @@ Massive benefits are evident in AI-assisted agents that have considerable benefi
 4) Journal of Business and Retail Management Research (https://jbrmr.com/issues&iid=43)
 5) Analysis of Artificial Intelligence Techniques in Surveillance Video Anomaly Detection (https://www.mdpi.com/2076-3417/13/8/4956)
 
+# Contact
+Rishi L. Uttam
+
+Email:
+
+rishi.uttamchandani@students.plymouth.ac.uk
+
+10068079@learner.hkuspace.hku.hk
+
+@RishiUttamHK
 
 
